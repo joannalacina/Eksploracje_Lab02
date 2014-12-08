@@ -1,0 +1,1 @@
+select SUM(Freight) as SumaFrachtow from Orders
